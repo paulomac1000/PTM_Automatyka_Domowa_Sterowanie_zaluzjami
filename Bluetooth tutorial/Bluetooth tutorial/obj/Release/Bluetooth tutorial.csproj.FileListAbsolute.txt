@@ -1,0 +1,10 @@
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\bin\Release\Control your blinds.exe.config
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\bin\Release\Control your blinds.exe
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\bin\Release\Control your blinds.pdb
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\obj\Release\Bluetooth_tutorial.Form1.resources
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\obj\Release\Control_your_blinds_namespace.Properties.Resources.resources
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\obj\Release\Bluetooth tutorial.csproj.GenerateResource.Cache
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\obj\Release\Control your blinds.exe
+C:\Users\Jan Kowalski\Documents\Visual Studio 2015\Projects\Bluetooth tutorial\Bluetooth tutorial\obj\Release\Control your blinds.pdb
